@@ -1,0 +1,6 @@
+pypdf  
+langchain_community 
+chromadb 
+gradio 
+bs4
+ollama
