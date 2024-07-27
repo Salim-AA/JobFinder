@@ -30,7 +30,7 @@ Provide an efficient method for finding relevant job postings and evaluating how
 
 ## Demo video
 
-[![Demo Video](Jobfinder_thumbnail.jpg)](https://github.com/Salim-AA/JobFinder/releases/download/v1/Jobfinder_demo.mp4) 
+[![Demo Video](Jobfinder_thumbnail.jpg)]("Jobfinder_demo.mp4") 
 ## Architecture
 
 ![Architecture Diagram](Jobfinder11.png)
