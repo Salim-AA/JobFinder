@@ -8,7 +8,7 @@
 
 ## Introduction
 
-This feels like the next logical step to [The Presentator](https://github.com/Salim-AA/Presentator), where I created an AI assistant that generates presentations for my Masters report. Once graduated, the next challenge is to find a job, hence the idea for this project. Unlike our previous fully cloud-based solution, this project processes data locally to maintain confidentiality. I'll use Ollama's local LLM & embedding models to ensure data privacy and security, particularly when handling all the PII within the CVs
+This feels like the next logical step to [The Presentator](https://github.com/Salim-AA/Presentator), where I created an AI assistant that generates presentations for my Masters report. Entering the job market once graduated is the next hurdle, hence the idea for this project. Unlike our previous fully cloud-based solution, this project processes data locally to maintain confidentiality. I'll use Ollama's local LLM & embedding models to ensure data privacy and security, particularly when handling all the PII within the CVs
 
 ## Goal 
 Provide an efficient method for finding relevant job postings and evaluating how well a candidate's resume matches those job descriptions through web scraping Linkedin's publicly available job offers, text processing, and AI-based resume analysis.
